@@ -1,0 +1,88 @@
+body {
+ 
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.AboutUsText {
+  font-family: Copperplate, Papyrus, fantasy;
+  color: white;
+  position: absolute;
+  text-align: right;
+  text-align: justify;
+  font-size: 55px;
+  vertical-align: middle;
+ 
+}
+
+.ABoutUsPicture {
+display: flex;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: auto;
+
+}
+
+.auto {
+  margin: auto;
+  text-align: center;
+}
+
+.bio {
+  margin: auto;
+  padding-left: 3%;
+  color: cadetblue;
+}
+.bio_right {
+  text-align: right;
+margin-top: -145px;
+  padding-right: 5%;
+  color: cadetblue;
+  padding-bottom: 10%;
+}
+
+.bio_bottom {
+  text-align: center;
+  color: cadetblue;
+  font-family: Copperplate, Papyrus, fantasy;
+  padding-bottom: 3%;
+
+}
+
+.NoPage {
+  padding: 0%;
+  margin: 0%;
+  text-align: center;
+  text-align-last: center;
+  color: cadetblue;
+  font-family: Copperplate, Papyrus, fantasy;
+
+}
+
+.App {
+  text-align: center;
+  font-family: Copperplate, Papyrus, fantasy;
+  color: cadetblue;
+  font-size: large;
+}
+
+
+.row{
+  color: black;
+  font-size: 27px;
+  padding-left: 7%;
+  text-align: center;
+  padding-bottom: 10%;
+  padding-top: 4%;
+  font-family: Copperplate, Papyrus, fantasy;
+
+}
